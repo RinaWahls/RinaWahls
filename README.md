@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RinaWahls
+- 👀 I’m interested in social science research and education, (spatial) inequalities and politics in particular.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on data visualization
+- 📫 How to reach me catharina.wahls@gmail.com
